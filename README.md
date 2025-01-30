@@ -1,5 +1,9 @@
-# Members of Aptamer@Thammasat Research Unit
-1. Associate Professor Dr. Boonchoy Soontornworajit
+# Aptamer@Thammasat Research Unit
+
+The research unit was established by Thammasat University to strength the research capability in molecular therapeutics. Our research unit currently consists of four investigators from Faculty of Science and Technology and Faculty of Medicine, Thammasat University.
+
+# Members
+1. **Head of Research Unit:** Associate Professor Dr. Boonchoy Soontornworajit 
 2. Assistant Professor Dr. Pichayanoot Rotkrua
 3. Assistant Professor Dr. Jiraporn Arunpanichlert
 4. [Associate Professor Dr. Yuthana Tantirungrotechai](https://yt203y.github.io/CVyt/)
