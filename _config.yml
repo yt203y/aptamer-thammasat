@@ -1,6 +1,13 @@
 title: [Aptamer@Thammasat]
-description: [Thammasat University Research Unit in Innovation of Molecular Hybrid for Biomedical Application\ หน่วยวิจัยด้านนวัตกรรมโมเลกุลลูกผสมสำหรับการประยุกต์ด้านชีวการแพทย์แห่งมหาวิทยาลัยธรรมศาสตร์]
-theme: jekyll-theme-minimal
-#remote_theme: pages-themes/minimal@v0.2.0
+description: [Thammasat University Research Unit in Innovation of Molecular Hybrid for Biomedical Application <br> หน่วยวิจัยด้านนวัตกรรมโมเลกุลลูกผสมสำหรับการประยุกต์ด้านชีวการแพทย์แห่งมหาวิทยาลัยธรรมศาสตร์]
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# remote_theme: pages-themes/cayman@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
