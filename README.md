@@ -20,6 +20,7 @@ We explore the possiblity of using Molecular Hybrid for Biomedical Application. 
 5.   P. Rotkrua, W. Lohlamoh, P. Watcharapo, B. Soontornworajit, A molecular hybrid comprising AS1411 and PDGF-BB aptamer, cholesterol, and doxorubicin for inhibiting proliferation of SW480 cells, Journal of Molecular Recognition 34 (2021). https://doi.org/10.1002/jmr.2926.
 6.   W. Lohlamoh, B. Soontornworajit, P. Rotkrua, Anti-Proliferative Effect of Doxorubicin-Loaded AS1411 Aptamer on Colorectal Cancer Cell, Asian Pacific Journal of Cancer Prevention 22 (2021) 2209–2219. https://doi.org/10.31557/APJCP.2021.22.7.2209.
 7. B. Soontornworajit, K. Kerdsiri, T. Tungkavet, A. Sirivat, Aptamer-gelatin composite material for prolonging PDGF-BB release, Songklanakarin Journal of Science and Technology 42 (2020) 180–187.
+8. W. Pornputtapitak, Y. Thiangjit, Y. Tantirungrotechai, Effect of Functional Groups in Lipid Molecules on the Stability of Nanostructured Lipid Carriers: Experimental and Computational Investigations, ACS Omega 9 (2024) 11012–11024. https://doi.org/10.1021/acsomega.4c00685.
 
 
 
