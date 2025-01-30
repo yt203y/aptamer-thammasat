@@ -1,6 +1,6 @@
 # Aptamer@Thammasat Research Unit
 
-The research unit was established by Thammasat University to strength the research capability in molecular therapeutics. Our research unit currently consists of four investigators from Faculty of Science and Technology and Faculty of Medicine, Thammasat University.
+The research unit was established by Thammasat University to strengthen its research capabilities in molecular therapeutics.  Our unit currently comprises four investigators from Faculties of Science and Technology, and Medicine at Thammasat University.
 
 # Members
 1. **Head of Research Unit:** Associate Professor Dr. Boonchoy Soontornworajit 
@@ -9,7 +9,7 @@ The research unit was established by Thammasat University to strength the resear
 4. [Associate Professor Dr. Yuthana Tantirungrotechai](https://yt203y.github.io/CVyt/)
 
 # Research Focus
-We explore the possiblity of using Molecular Hybrid for Biomedical Application. The current focus is on Aptamer-based system for cancer treatment.
+We explore the possibility of using Molecular Hybrids for biomedical applications.  Our current focus is on aptamer-based systems for cancer treatment.
 
 # Recent Publications
 
@@ -25,5 +25,4 @@ We explore the possiblity of using Molecular Hybrid for Biomedical Application. 
 
 
 # Contact
-If you are interested in M.Sc. & Ph.D. study, Postdoctoral work or research collaboration, feel free to contact us at 
-[sbooncho@tu.ac.th](mailto:sboochu@tu.ac.th).
+If you are interested in M.Sc. and Ph.D. studies, postdoctoral work, or research collaboration, please feel free to contact us at [sbooncho@tu.ac.th](mailto:sboochu@tu.ac.th).
